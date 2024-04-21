@@ -1,3 +1,5 @@
+_G.PartNeon = s
+
 spawn(function()
     game:GetService("RunService").Heartbeat:Connect(function()
         if _G.PartNeon then
